@@ -1,0 +1,7 @@
+C:\Users\Alexander\documents\visual studio 2010\Projects\SdetUnityTestAssignment\SdetUnityTestAssignmentTests\bin\Debug\SdetUnityTestAssignmentTests.dll
+C:\Users\Alexander\documents\visual studio 2010\Projects\SdetUnityTestAssignment\SdetUnityTestAssignmentTests\bin\Debug\SdetUnityTestAssignmentTests.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\SdetUnityTestAssignment\SdetUnityTestAssignmentTests\bin\Debug\SdetUnityTestAssignment.exe
+C:\Users\Alexander\documents\visual studio 2010\Projects\SdetUnityTestAssignment\SdetUnityTestAssignmentTests\bin\Debug\SdetUnityTestAssignment.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\SdetUnityTestAssignment\SdetUnityTestAssignmentTests\obj\Debug\SdetUnityTestAssignmentTests.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\documents\visual studio 2010\Projects\SdetUnityTestAssignment\SdetUnityTestAssignmentTests\obj\Debug\SdetUnityTestAssignmentTests.dll
+C:\Users\Alexander\documents\visual studio 2010\Projects\SdetUnityTestAssignment\SdetUnityTestAssignmentTests\obj\Debug\SdetUnityTestAssignmentTests.pdb
